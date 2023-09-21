@@ -1,0 +1,94 @@
+	AVEVA: 	
+Location: AVEVA is headquartered in Cambridge, United Kingdom.
+Markets Served: AVEVA provides industrial software solutions across sectors, including oil and gas, utilities, marine, and manufacturing.
+Product Names: AVEVA offers various SCADA and HMI solutions as part of its portfolio.
+Unique Feature: AVEVA is known for its comprehensive suite of industrial software solutions, including SCADA, HMI, and engineering tools.
+Market Position: AVEVA is a well-established provider of industrial software solutions with a global reach.
+Website: AVEVA - Industrial Software
+	GE Digital (iFIX): 	
+Location: GE Digital is part of General Electric and is headquartered in San Ramon, California, USA.
+Markets Served: GE Digital serves industries such as manufacturing, utilities, energy, and aviation.
+Product Names: iFIX SCADA software.
+Unique Feature: iFIX offers robust connectivity options and real-time monitoring capabilities, suitable for diverse industrial applications.
+Market Position: A significant player in the industrial automation and digital solutions market.
+Website: GE Digital - iFIX
+	Inductive Automation (Ignition): 	
+Location: Inductive Automation is based in Folsom, California, USA.
+Markets Served: Inductive Automation's Ignition platform is used in various industries, including manufacturing, water/wastewater, energy, and more.
+Product Names: Ignition (SCADA and HMI platform).
+Unique Feature: Ignition is known for its web-based architecture, scalability, and modular approach to SCADA and HMI design.
+Market Position: Gaining recognition for its innovative and flexible SCADA and HMI solutions.
+Website: Inductive Automation - Ignition
+4. Iconics:
+
+Location: Iconics is headquartered in Foxborough, Massachusetts, USA.
+Markets Served: Iconics serves industries such as manufacturing, building automation, energy, water/wastewater, and more.
+Product Names: Iconics offers SCADA and HMI solutions for industrial automation, energy management, and building automation.
+Unique Feature: Iconics is known for its advanced data visualization, analytics, and integration capabilities, making it suitable for complex industrial and building automation applications.
+Market Position: Iconics is a recognized player in the SCADA and HMI software market with a focus on energy-efficient solutions.
+Website: Iconics - SCADA and HMI Software
+
+5. ETM Professional Control GmbH (WinCC OA):
+
+Location: ETM Professional Control GmbH is headquartered in Eisenstadt, Austria.
+Markets Served: WinCC OA (Open Architecture) is used in various industries, including manufacturing, transportation, infrastructure, and building automation.
+Product Names: WinCC OA (formerly known as PVSS) is a SCADA software solution known for its scalability and flexibility in industrial and infrastructure applications.
+Unique Feature: WinCC OA offers a modular and open architecture, making it adaptable to diverse SCADA and HMI requirements in large-scale projects.
+Market Position: WinCC OA is well-regarded for its suitability in critical infrastructure projects and industrial automation applications.
+Website: ETM Professional Control GmbH - WinCC OA
+ ABB:
+
+Location: ABB is a global company with its headquarters in Zurich, Switzerland.
+Markets Served: ABB provides solutions to various industries, including manufacturing, utilities, transportation, and infrastructure.
+Product Names: ABB offers SCADA solutions as part of its industrial automation and control offerings.
+Unique Feature: ABB's SCADA solutions are known for their advanced automation and control capabilities, particularly in complex manufacturing and utility environments.
+Market Position: ABB is a recognized player in industrial automation and control with a strong presence in multiple industries worldwide.
+Website: ABB - Industrial Automation
+
+Honeywell:
+
+Location: Honeywell is a multinational conglomerate with its headquarters in Charlotte, North Carolina, USA.
+Markets Served: Honeywell serves a wide range of industries, including aerospace, chemicals, manufacturing, and more.
+Product Names: Honeywell offers the Experion SCADA system, among other industrial automation solutions.
+Unique Feature: The Experion SCADA system is known for its robustness, scalability, and use in critical industrial applications such as oil and gas, chemicals, and manufacturing.
+Market Position: Honeywell is a major player in the industrial automation and process control sectors with a global presence.
+Website: Honeywell - Experion SCADA
+[8:16 PM] Janani.jah (Guest)
+
+These ones are on your list already but I am providing you with additional information with exact links to SCADA:
+
+ 
+
+Rockwell Automation:
+
+Location: Rockwell Automation is headquartered in Milwaukee, Wisconsin, USA.
+Markets Served: Rockwell Automation serves a wide range of industries, including manufacturing, automotive, food and beverage, pharmaceuticals, and more.
+Product Names: Rockwell Automation offers FactoryTalk View SE as part of its SCADA and HMI software solutions.
+Unique Feature: FactoryTalk View SE is known for its user-friendly interface and seamless integration with Rockwell Automation's other automation and control solutions.
+Market Position: Rockwell Automation is a strong player in the industrial automation and control sector, with a strong presence in manufacturing and related industries.
+Website: Rockwell Automation - FactoryTalk View SE
+
+Schneider Electric:
+
+Location: Schneider Electric is headquartered in Rueil-Malmaison, France.
+Markets Served: Schneider Electric serves industries such as energy, manufacturing, utilities, infrastructure, and more.
+Product Names: Schneider Electric offers EcoStruxure™ SCADA Expert (formerly known as Vijeo Citect) as part of its SCADA software solutions.
+Unique Feature: EcoStruxure™ SCADA Expert has a focus on energy efficiency and is designed to optimize processes in energy-intensive industries.
+Market Position: Schneider Electric is a major player in industrial automation and control solutions, particularly strong in energy and infrastructure sectors.
+Website: Schneider Electric - EcoStruxure SCADA Expert
+ 
+
+[8:18 PM] Janani.jah (Guest)
+
+i found one more:
+
+ 
+
+Emerson Electric:
+
+Location: Emerson Electric is headquartered in St. Louis, Missouri, USA.
+Markets Served: Emerson Electric serves various industries, including process manufacturing, energy, oil and gas, and more.
+Product Names: Emerson offers SCADA solutions as part of its automation and control offerings. One of its well-known SCADA products is the Ovation SCADA system.
+Unique Feature: The Ovation SCADA system is recognized for its use in critical infrastructure and process industries, offering real-time monitoring and control capabilities.
+Market Position: Emerson Electric is a significant player in industrial automation and control solutions, particularly in process industries such as power generation and water treatment.
+Website: Emerson Electric - Ovation SCADA

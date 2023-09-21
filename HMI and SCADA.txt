@@ -1,0 +1,53 @@
+From Software for machine-oriented visualization to powerful SCADA systems -
+
+Totally connected, totally digitalized!
+
+As your single-source provider, Siemens’ human machine interface technology SIMATIC HMI is engineered to cope with the increasingly complex processes of your machines and systems. SIMATIC HMI is optimized to meet your specific human machine interface needs using open and standardized interfaces in hardware and software, which allow efficient integration into your automation solution.*
+
+
+Digitalization is noticeably changing our world – and the world of industry. The data volume in modern industrial plants is growing continuously. This poses new challenges for SCADA solutions: Enormous data volumes must be managed and archived for the long term. At the same time, production processes must be monitored and controlled as reliably, efficiently, and productively as possible and they must be constantly optimized. With its scalable, open system landscape for the vertical integration of data from the production to the MES/ERP level up to cloud solutions, SIMATIC SCADA offers a solution that is ready for the challenges of today and tomorrow.**
+
+
+
+Our specialists have comprehensive expertise and deep knowledge from machine level visualization and engineering of pc-based HMI-systems to powerful SCADA systems with Plant Intelligence. Also, in virtual environments.
+
+
+
+We have long-term experience and deep knowledge in the whole Portfolio of SIMATIC HMI and SCADA systems like:
+
+SIMATIC WinCC Unified
+SIMATIC WinCC Professional
+SIMATIC WinCC V7
+SIMATIC WinCC Advanced, Comfort, Basic
+SIMATIC WinCC flexible
+SIMATIC WebUX
+SIMATIC WebNavigator
+
+
+With these competencies, we support (onsite or remote) our customers in:
+
+Consulting
+
+Products and systems for all industries for the entire SIMATIC HMI/SCADA portfolio, including all options
+Support for concept realization and integration of edge solutions and customized requirements
+Competence for visualization systems and IT/OT*** integration
+Implementation
+
+Expertise in commissioning, consulting and project support
+Consulting and support in integration into existing virtual environments, as well as the connection to PLM**** and drive software
+Support in the construction of customized visualization systems based on web technologies (HTML5/JavaScript)
+Optimization
+
+Providing and ensuring worldwide field service, commissioning and engineering for SIMATIC HMI
+Improvement of the visualization through script-based extensions and standardization to increase usability, performance and efficiency
+*Source: https://new.siemens.com/global/en/products/automation/simatic-hmi.html
+
+**Source: https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada.html
+
+***OT = Operational Technology
+****PLM = Product Lifecyle Management 
+
+Contact us
+
+Heinrich, Ingo (DI CS SD EH FA 5)
+Head of HMI & SCADA
